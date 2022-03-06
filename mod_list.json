@@ -4,6 +4,186 @@
             "name": "AppleSkin",
             "projectID": 248787,
             "fileID": 3626709
+        },
+        {
+            "name": "Backpacked",
+            "projectID": 352835,
+            "fileID": 3667014
+        },
+        {
+            "name": "MrCrayfish Furniture",
+            "projectID": 55438,
+            "fileID": 3346467
+        },
+        {
+            "name": "Colossal Chests",
+            "projectID": 237875,
+            "fileID": 3025859
+        },
+        {
+            "name": "Cyclops Core",
+            "projectID": 232758,
+            "fileID": 3517568
+        },
+        {
+            "name": "Connected Glass",
+            "projectID": 383129,
+            "fileID": 3514561
+        },
+        {
+            "name": "Cooking Blockheads",
+            "projectID": 231484,
+            "fileID": 3445172
+        },
+        {
+            "name": "Cosmetic Armor",
+            "projectID": 237307,
+            "fileID": 3540310
+        },
+        {
+            "name": "Crafting Tweaks",
+            "projectID": 233071,
+            "fileID": 3330406
+        },
+        {
+            "name": "Create",
+            "projectID": 328085,
+            "fileID": 3536025
+        },
+        {
+            "name": "Flywheel",
+            "projectID": 486392,
+            "fileID": 3535459
+        },
+        {
+            "name": "Glasscutter",
+            "projectID": 377086,
+            "fileID": 3336012
+        },
+        {
+            "name": "Golden Hopper",
+            "projectID": 374736,
+            "fileID": 3401142
+        },
+        {
+            "name": "iChunUtil",
+            "projectID": 229060,
+            "fileID": 3548417
+        },
+        {
+            "name": "Immersive Engineering",
+            "projectID": 231951,
+            "fileID": 3578181
+        },
+        {
+            "name": "Immersive Petroleum",
+            "projectID": 268250,
+            "fileID": 3608210
+        },
+        {
+            "name": "Engineer Decor",
+            "projectID": 313866,
+            "fileID": 3620189
+        },
+        {
+            "name": "Just Enough Items",
+            "projectID": 238222,
+            "fileID": 3652153
+        },
+        {
+            "name": "Just Enough Ressources",
+            "projectID": 240630,
+            "fileID": 3066754
+        },
+        {
+            "name": "Just Enough Calculation",
+            "projectID": 242223,
+            "fileID": 3524695
+        },
+        {
+            "name": "Ust Enough Vehicles",
+            "projectID": 327775,
+            "fileID": 3173435
+        },
+        {
+            "name": "Mc Paint",
+            "projectID": 301829,
+            "fileID": 3483112
+        },
+        {
+            "name": "MrCrayfish More Furniture",
+            "projectID": 486928,
+            "fileID": 3346602
+        },
+        {
+            "name": "Obfuscate",
+            "projectID": 289380,
+            "fileID": 3336021
+        },
+        {
+            "name": "Patchouli",
+            "projectID": 306770,
+            "fileID": 3459118
+        },
+        {
+            "name": "PneumaticCraft: Rpressurized",
+            "projectID": 281849,
+            "fileID": 3667523
+        },
+        {
+            "name": "Redstone Pen",
+            "projectID": 461710,
+            "fileID": 3627113
+        },
+        {
+            "name": "Tiny Redstone",
+            "projectID": 453746,
+            "fileID": 3651423
+        },
+        {
+            "name": "Tiny Gates",
+            "projectID": 522875,
+            "fileID": 3469924
+        },
+        {
+            "name": "Tiny Pipes",
+            "projectID": 555132,
+            "fileID": 3590223
+        },
+        {
+            "name": "ToroHealth Damage Indicators",
+            "projectID": 245733,
+            "fileID": 3144151
+        },
+        {
+            "name": "Ultimate Car",
+            "projectID": 267458,
+            "fileID": 3310670
+        },
+        {
+            "name": "MrCrayfish Vehicle",
+            "projectID": 286660,
+            "fileID": 3103940
+        },
+        {
+            "name": "Visual Workbench",
+            "projectID": 500273,
+            "fileID": 3552849
+        },
+        {
+            "name": "Puzzles Lib -> visual",
+            "projectID": 495476,
+            "fileID": 3517499
+        },
+        {
+            "name": "Xaero's Minimap",
+            "projectID": 263420,
+            "fileID": 3663012
+        },
+        {
+            "name": "Xaero's World Map",
+            "projectID": 317780,
+            "fileID": 3646983
         }
     ],
     "mods": []
